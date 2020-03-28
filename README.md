@@ -2,6 +2,10 @@
 Clon del flappy bird escrito en python. :)
 
 ## Instrucciones
+1. Clonar el repositorio:
+   ```
+   git clone git@github.com:paticama/flappy_bird.git
+   ```
 1. Generar un virtual enviroment:
 
    ```
