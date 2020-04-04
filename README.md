@@ -19,7 +19,7 @@ Clon del flappy bird escrito en python. :)
    ```
 1. Instalar las dependencias:
    ```
-   pip install -r reqirements.txt
+   pip install -r requirements.txt
    ```
 1. Ejecutar el videojuego
    ```
