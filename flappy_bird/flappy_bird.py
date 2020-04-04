@@ -1,3 +1,5 @@
+#Este es el juego de flappybird
+
 import pgzrun
 import random
 
@@ -76,3 +78,4 @@ def draw():
 
 
 pgzrun.go()
+
